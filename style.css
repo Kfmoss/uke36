@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.mainContainer{
+    background-color: blueviolet;
+    font-family: sans-serif;
+
+}
+.dns{
+    padding: 3rem;
+
+}
+.dns h2{
+    color: #ffff;
+    
+}
+.dns p{
+    padding: 5% 1.5rem 2rem 1rem;
+}
+.dhcp{
+    padding: 3rem;
+
+}
+.dhcp h2{
+    color:brown;
+}
+.dhcp p{
+    padding: 5% 1.5rem 2rem 5%;
+
+}
+
+.router{
+    padding: 3rem;
+    display: flex;
+    flex-direction: column;
+}
+
